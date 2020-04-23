@@ -7,7 +7,7 @@
       const message = {
         id: Date.now(),
         text: msg,
-        username: "gndx"
+        username: "dignelidxdx"
       }
       comments = [...comments, message];
       event.target.text.value = "";
@@ -62,9 +62,6 @@
     font-size: 12px;
     outline: none;
     cursor: pointer;
-  }
-  label {
-    display: none;
   }
 </style>
 
